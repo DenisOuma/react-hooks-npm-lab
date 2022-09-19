@@ -1,0 +1,15 @@
+{
+	"name": "color-clock",
+	"version": "1.0.0",
+	"description": "This is a colour clock system",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo 'Hello World!'",
+		"start": "serve"
+	},
+	"author": "Denis Ouma",
+	"license": "ISC",
+	"dependencies": {
+		"serve": "^14.0.1"
+	}
+}
